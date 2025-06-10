@@ -1,5 +1,5 @@
 .DS_Store
-ptfIIsne
+archive
 proposal.pdf
 ptf_ccsne.txt
 ptf_ccsne_redshifts.txt
@@ -7,3 +7,6 @@ ztf_fbots.csv
 ptf_ccsne_results.txt
 ztf_fbots_results.csv
 *h5
+*best_model.fits
+*best_model.pdf
+*SFH.fits
